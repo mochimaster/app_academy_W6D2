@@ -1,0 +1,18 @@
+/* PHASE 9: Forms */
+.for-thumb {
+  float: left;
+}
+
+fieldset {
+  float: right;
+  width: 80%;
+  margin-left: 20px;
+  background-color: #eee;
+  border: 1px solid #ccc;
+  padding: 19px;
+}
+
+fieldset input, textarea {
+  background-color: white;
+  width: 100%
+}
