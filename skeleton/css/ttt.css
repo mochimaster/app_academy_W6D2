@@ -1,0 +1,17 @@
+/* {'width': '300px', 'display': 'flex', 'flex-wrap': 'wrap'} */
+ul {
+  width: 306px;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+/* {'width': '100px', 'height': '100px', 'border': '1px solid black'} */
+li {
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  background-color: grey;
+}
+li:hover {
+  background-color: yellow;
+}
